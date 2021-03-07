@@ -1,0 +1,54 @@
+/* Devloper: Tanish Bansal (tanish.sc@gmail.com) */
+
+.header {
+    display: flex;
+}
+
+.header-filter {
+    height: 30px;
+    min-width: 10%;
+    position: relative;
+    top: 15px;
+}
+
+h1 {
+    width: 80%;
+}
+
+.okr-data {
+    display: flex;
+}
+
+.drop-down {
+    padding-right: 60px;
+}
+
+.okr-parent-data {
+    font-weight: 600;
+    font-size: 18px;
+    margin: 5px;
+}
+
+.card {
+    margin: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    padding: 10px;
+}
+  
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.hide {
+    display: none;
+}
+
+.select {
+    border: none;
+    padding-top: 15px;
+}
+
+body {
+    margin: 20px;
+}
