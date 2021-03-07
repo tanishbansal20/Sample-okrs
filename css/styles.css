@@ -47,6 +47,7 @@ h1 {
 .select {
     border: none;
     padding-top: 15px;
+    cursor: pointer;
 }
 
 body {
